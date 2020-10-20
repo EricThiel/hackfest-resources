@@ -16,13 +16,13 @@ Available [sandboxes by Networking category](https://devnetsandbox.cisco.com/RM/
 
 You can also use Cisco DNA Center sandboxes
 
-Cisco DNA-C 1.2.10 - [https://sandboxdnac2.cisco.com/](https://sandboxdnac2.cisco.com/)
+Cisco DNA-C 1.3.1.4 - [https://sandboxdnac2.cisco.com/](https://sandboxdnac2.cisco.com/)
 
 login: devnetuser
 
 password: Cisco123!
 
-Cisco DNA-C 1.2.6 - [https://sandboxdnac.cisco.com](https://sandboxdnac.cisco.com)
+Cisco DNA-C 1.3.1.6 - [https://sandboxdnac.cisco.com](https://sandboxdnac.cisco.com)
 
 login: devnetuser
 
