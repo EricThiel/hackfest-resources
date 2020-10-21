@@ -1,16 +1,16 @@
-# Hackfest - Resources
+#Hackfest - Resources
 
-# Event Name
+## Event Name
 
-# Event Schedule and Activities 
+## Event Schedule and Activities 
 
-# What to Expect 
+## What to Expect 
 
-# Coding Basics
+## Coding Basics
 **Getting started with Coding and APIs** - [DevNet StartNow](https://developer.cisco.com/startnow/#coding-apis-v0)
-# Frontend code
+## Frontend code
 
-# Networking
+## Networking
 ### Sandboxes 
 Available [sandboxes by Networking category](https://devnetsandbox.cisco.com/RM/Topology?c=14ec7ccf-2988-474e-a135-1e90b9bc6caf)
 
@@ -69,7 +69,7 @@ Available [sandboxes by Networking category](https://devnetsandbox.cisco.com/RM/
 - Looking for inspiration? Check these use cases on [DevNet Automation Exchange](https://developer.cisco.com/network-automation/listing/#domain=Campus%2FBranch)
 
 
-# Security
+## Security
 #### Sandboxes 
 Available [sandboxes by Security category](https://devnetsandbox.cisco.com/RM/Topology?c=a6f8430c-5b24-439d-b28a-effb42d4c20c)
 
