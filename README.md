@@ -1,4 +1,4 @@
-#Hackfest - Resources
+# Hackfest - Resources
 
 ## Event Name
 
