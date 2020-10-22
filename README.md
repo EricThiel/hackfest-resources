@@ -25,10 +25,15 @@
 Open-source projects, Dashboards:
 
 [Flask Dashboard](https://github.com/app-generator/flask-dashboard-sleek) - Sleek Design
+
 [Backstage](https://github.com/spotify/backstage) is an open platform for building developer portals
-[GoAdmin](https://github.com/GoAdminGroup/go-admin) is a toolkit to help you build a data visualization admin panel for your golang app.
+
+[GoAdmin](https://github.com/GoAdminGroup/go-admin) is a toolkit to help you build a data visualization admin panel for your golang app
+
 [Vue White Dashboard](https://github.com/creativetimofficial/vue-white-dashboard)
+
 [Material Dashboard Angular](https://github.com/creativetimofficial/material-dashboard-angular2)
+
 [ReactJS-AdminLTE](https://github.com/booleanhunter/ReactJS-AdminLTE)
 
 ## Networking
