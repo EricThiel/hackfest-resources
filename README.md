@@ -8,7 +8,28 @@
 
 ## Coding Basics
 
+*Learning labs, that can be useful for you:*
+
+[Introduction to DevNet](https://developer.cisco.com/learning/tracks/devnet-beginner)
+
+[Network Programmability for Network Engineers](https://developer.cisco.com/learning/tracks/netprog-eng)
+
+[Network Programmability for Application Developers](https://developer.cisco.com/learning/tracks/netprog-appdev)
+
+[Cisco IoT](https://developer.cisco.com/learning/tracks/iot)
+
+[Cisco Application-First Security](https://developer.cisco.com/learning/tracks/cisco-app-first-security)
+
 ## Frontend code
+
+Open-source projects, Dashboards:
+
+[Flask Dashboard](https://github.com/app-generator/flask-dashboard-sleek) - Sleek Design
+[Backstage](https://github.com/spotify/backstage) is an open platform for building developer portals
+[GoAdmin](https://github.com/GoAdminGroup/go-admin) is a toolkit to help you build a data visualization admin panel for your golang app.
+[Vue White Dashboard](https://github.com/creativetimofficial/vue-white-dashboard)
+[Material Dashboard Angular](https://github.com/creativetimofficial/material-dashboard-angular2)
+[ReactJS-AdminLTE](https://github.com/booleanhunter/ReactJS-AdminLTE)
 
 ## Networking
 
@@ -36,8 +57,7 @@ login: devnetuser
 
 password: Cisco123!
 
-Looking for inspiration? Check these use cases on [DevNet Automation Exchange](https://developer.cisco.com/network-automation/listing/#domain=Campus%2FBranch)
-
+Looking for inspiration? Check these use cases on [DevNet Automation Exchange](https://developer.cisco.com/network-automation/listing/#domain=Campus%2FBranch) and open-source projects on [DevNet Code Exchange](https://developer.cisco.com/codeexchange/explore/#tech=Networking)
 
 ## Security
 
@@ -47,7 +67,7 @@ For example, for firepower API's, check out the DevNet [FMC REST API Sandbox wit
 
 [![](docs/img/FMC_REST_API_Sandbox.png)](https://devnetsandbox.cisco.com/RM/Diagram/Index/1228cb22-b2ba-48d3-a70a-86a53f4eecc0?diagramType=Topology)
 
-Looking for inspiration? Check these Security use cases on [DevNet Automation Exchange](https://developer.cisco.com/network-automation/listing/#domain=Security)
+Looking for inspiration? Check these Security use cases on [DevNet Automation Exchange](https://developer.cisco.com/network-automation/listing/#domain=Security) and open-source projects on [DevNet Code Exchange](https://developer.cisco.com/codeexchange/explore/#tech=Security)
 
 ## IoT
 
@@ -55,7 +75,7 @@ Available [sandboxes by IoT category](https://devnetsandbox.cisco.com/RM/Topolog
 
 [![](docs/img/iot_sandboxes.png)](https://devnetsandbox.cisco.com/RM/Topology?c=171f6448-a74a-4831-a8c5-ad6f681bfc0d)
 
-Looking for inspiration? Check these use cases on [DevNet Automation Exchange](https://developer.cisco.com/network-automation/listing/#domain=IoT)
+Looking for inspiration? Check these use cases on [DevNet Automation Exchange](https://developer.cisco.com/network-automation/listing/#domain=IoT) and open-source projects on [DevNet Code Exchange](https://developer.cisco.com/codeexchange/explore/#tech=IoT)
 
 ## Telemetry
 
